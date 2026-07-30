@@ -39,3 +39,7 @@ O workflow terraform-ci.yml roda automaticamente em cada push/PR: terraform fmt 
 ## Stack
 
 Terraform, AWS, Azure, GCP, OCI, GitHub Actions
+
+## Sobre a publicação
+
+Este projeto foi construído e publicado como referência de arquitetura para a comunidade, refletindo padrões e decisões técnicas aplicados na prática profissional (sem reproduzir código ou dados de projetos proprietários).
