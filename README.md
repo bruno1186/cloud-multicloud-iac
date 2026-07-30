@@ -43,3 +43,8 @@ Terraform, AWS, Azure, GCP, OCI, GitHub Actions
 ## Sobre a publicação
 
 Este projeto foi construído e publicado como referência de arquitetura para a comunidade, refletindo padrões e decisões técnicas aplicados na prática profissional (sem reproduzir código ou dados de projetos proprietários).
+
+
+## Decisões de arquitetura
+
+As principais decisões técnicas do projeto (como a ativação condicional de cada provider por flag) estão documentadas em docs/adr/. Novas decisões relevantes devem seguir o mesmo formato.
